@@ -5,7 +5,6 @@
     <description>Generated grid cells</description>
     <Style id="gridStyle">
       <LineStyle>
-        <color>white</color>
         <width>1</width>
       </LineStyle>
       <PolyStyle>
