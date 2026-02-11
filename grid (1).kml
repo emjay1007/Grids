@@ -6,7 +6,7 @@
     <Style id="gridStyle">
       <LineStyle>
         <color>fff44336</color>
-        <width>2</width>
+        <width>1</width>
       </LineStyle>
       <PolyStyle>
         <color>4d64b5f6</color>
