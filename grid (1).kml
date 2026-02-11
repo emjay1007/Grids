@@ -5,11 +5,11 @@
     <description>Generated grid cells</description>
     <Style id="gridStyle">
       <LineStyle>
-        <color>fff44336</color>
+        <color>red</color>
         <width>1</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d64b5f6</color>
+        <color>blue</color>
       </PolyStyle>
     </Style>
     <Placemark>
